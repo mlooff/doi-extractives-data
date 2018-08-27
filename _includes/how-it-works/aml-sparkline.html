@@ -1,5 +1,5 @@
 <script>
-d3.json('/data/aml-fund.json', function(error, data) {
+d3.json('{{ site.baseurl }}/data/aml-fund.json', function(error, data) {
     sparkline('#spark-it', data);
   });
  </script> 
