@@ -112,9 +112,10 @@ You can track certified states and tribes by reviewing the [annual AML grant dis
 
 Prior to 2006, companies often paid more money into the [AML fund](http://www.osmre.gov/programs/aml.shtm) each year than Congress chose to appropriate. A large, unappropriated balance grew over time.
 
-**Growth of the AML fund's unappropriated balance**
+{% include sparkline.html %}
+{% include how-it-works/aml-sparkline.html %}
 
-<img src="{{ site.baseurl }}/public/img/AML_unapprop-growth.svg" alt="Chart shows the growth of the AML fund's unappropriated balance from 1989 to 2017. It grew from around $500 million to nearly $2.5 billion dollars in 2015, before falling slightly to $2.38 billion in 2017." class="article_img-100 u-margin-top u-margin-bottom">
+Between 1988 and 2007, the fund has grown from $436 million to <span id="spark-it"></span> <span class="spark-data">$2.38 billion</span>.
 
 ### Interest on the fund
 
