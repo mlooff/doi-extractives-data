@@ -115,7 +115,7 @@ Prior to 2006, companies often paid more money into the [AML fund](http://www.os
 {% include sparkline.html %}
 {% include how-it-works/aml-sparkline.html %}
 
-Between 1988 and 2007, the fund has grown from $436 million to <span id="spark-it"></span> <span class="spark-data">$2.38 billion</span>.
+Between 1988 and 2017, the fund has grown from $436 million to <span id="spark-it"></span> <span class="spark-data">$2.38 billion</span>.
 
 ### Interest on the fund
 
